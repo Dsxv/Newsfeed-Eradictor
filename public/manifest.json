@@ -17,7 +17,6 @@
 
     }] ,
     "icons" : {
-      "120" : "sed.gif",
-      "48" : "sed.gif"
+      "48" : "sed.png"
     }
 }
